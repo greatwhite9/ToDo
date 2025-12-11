@@ -94,10 +94,3 @@ Follow these instructions to get the project up and running on your local machin
 
 6.  **Access the App:**
     Open your browser and navigate to `http://localhost:5000/`.
-
-## 🔮 Future Improvements
-
-  * **User Authentication**: Add login/signup functionality so users can have private lists.
-  * **Due Dates**: Add a column for task deadlines.
-  * **Task Completion**: Add a checkbox to mark tasks as "Done" without deleting them.
-  * **Categories**: Tag tasks (e.g., Work, Personal, Shopping).
